@@ -4,7 +4,7 @@ Prototipo de una plataforma web lúdica de cursos para niños, desarrollado con 
 
 - **Aprendiz:** Emmanuel Lara Cueto
 - **Curso y mecánica:** Ingles - Niveles
-- **Aplicación publicada:** (complete con la URL de Render)
+- **Aplicación publicada:** https://plataforma-ludica-dpem.onrender.com
 
 ## Ejecutar en su equipo
 
