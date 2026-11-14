@@ -16,6 +16,7 @@ Python modificados. No se ejecutó la suite completa.
 Todavía no hay lógica de cursos o sesiones, modelos de datos funcionales ni conexión a
 una base de datos. `app/servicios/` y `app/modelos/` solo contienen sus archivos
 iniciales, y `specs/spec.md` sigue siendo una plantilla con marcadores.
+`specs/dudas-encargo.md` contiene ocho dudas sobre el encargo y la mecánica.
 
 ## Decisiones
 
